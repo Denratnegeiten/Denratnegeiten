@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="340" src="https://s2.ezgif.com/tmp/ezgif-2e23ec0ff5a43b.gif"  />
+<img align="right" height="330" src="https://s2.ezgif.com/tmp/ezgif-2e23ec0ff5a43b.gif"  />
 
 ###
 
@@ -10,13 +10,11 @@
 <p align="left">Связь:</p>
 
 <div align="left">
-  <!-- Telegram -->
   <a href="https://t.me/mopspashka" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" 
          width="52" height="40" alt="telegram logo" />
   </a>
 
-  <!-- Discord -->
   <a href="https://discord.com/users/denratnegeiten" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" 
          width="52" height="40" alt="discord logo" />
