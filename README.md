@@ -48,17 +48,7 @@
 
 ###
 
-<br clear="both">
-<div style="height: 30px;"></div> <!-- это просто отступ сверху -->
-
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=soft&height=70&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=79&fontAlignY=60&rotate=0&stroke=-&descSize=20&descAlign=57&descAlignY=50&textBg=false&color=FFFFFF"  
-    style="width: 100%; display: block; margin: 0; padding: 0; border-radius: 8px;" 
-    alt="header"
-  />
-</div>
-
+<hr style="border: none; border-top: 2px solid white; width: 100%; margin: 30px 0;" />
 
 ###
 
