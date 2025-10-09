@@ -1,16 +1,74 @@
-## Hi there 👋
+<br clear="both">
 
-<!--
-**Denratnegeiten/Denratnegeiten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="412" src="https://s2.ezgif.com/tmp/ezgif-2e23ec0ff5a43b.gif"  />
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="left">Привет,<br>Меня зовут Родион.<br>Являюсь студентом второго курса Крымского инженерно-педагогического университета (КИПУ)</h4>
+
+###
+<p align="left">Связь:</p>
+
+<div align="left">
+  <!-- Telegram -->
+  <a href="https://t.me/mopspashka" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" 
+         width="52" height="40" alt="telegram logo" />
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/denratnegeiten" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" 
+         width="52" height="40" alt="discord logo" />
+  </a>
+</div>
+
+
+###
+
+<p align="left">Изучаю на данный момент:</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<p align="left">00</p>
+
+###
+
+<br clear="both">
+<div style="height: 30px;"></div> <!-- это просто отступ сверху -->
+
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=soft&height=70&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=79&fontAlignY=60&rotate=0&stroke=-&descSize=20&descAlign=57&descAlignY=50&textBg=false&color=FFFFFF"  
+    style="width: 100%; display: block; margin: 0; padding: 0; border-radius: 8px;" 
+    alt="header"
+  />
+</div>
+
+
+###
+
+
+<br clear="both">
+
+<img align="right" height="300" src="https://www.metal-archives.com/images/1/0/1/0/1010157.jpg?0748"  />
+
+###
+
+<p align="left">Любимый музыкальный альбом:<br><br>Vaino - Metsänpeitto <br>1. 	Poismenneen loisto<br>2. 	Noidankehä<br>3. 	Veriteko<br>4. 	Uhritemppeli<br>5. 	Missä käärmeet pesivät<br>6. 	Surutyö<br>7. 	Houreesta hurmioon</p>
+
+###
