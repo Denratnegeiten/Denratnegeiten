@@ -7,12 +7,12 @@
 <h4 align="left">Привет,<br>Меня зовут Родион.<br>Являюсь студентом второго курса Крымского инженерно-педагогического университета (КИПУ)</h4>
 
 ###
-<div align="left">
+<div align="left" style="display: flex; gap: 10px;">
   <a href="https://t.me/mopspashka" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" 
          width="52" height="40" alt="telegram logo" />
-  </a><!--
-  --><a href="https://discord.com/users/denratnegeiten" target="_blank">
+  </a>
+  <a href="https://discord.com/users/denratnegeiten" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" 
          width="52" height="40" alt="discord logo" />
   </a>
