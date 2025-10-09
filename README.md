@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="412" src="https://s2.ezgif.com/tmp/ezgif-2e23ec0ff5a43b.gif"  />
+<img align="right" height="370" src="https://s2.ezgif.com/tmp/ezgif-2e23ec0ff5a43b.gif"  />
 
 ###
 
@@ -41,10 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-
-###
-
-<p align="left">00</p>
 
 ###
 
