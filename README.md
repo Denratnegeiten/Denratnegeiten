@@ -52,6 +52,6 @@
 
 ###
 
-<p align="left">Любимый музыкальный альбом:<br><br>Vaino - Metsänpeitto <br>1. 	Poismenneen loisto<br>2. 	Noidankehä<br>3. 	Veriteko<br>4. 	Uhritemppeli<br>5. 	Missä käärmeet pesivät<br>6. 	Surutyö<br>7. 	Houreesta hurmioon</p>
+<h3 align="left">Любимый музыкальный альбом:<br><br>Vaino - Metsänpeitto <br>1. 	Poismenneen loisto<br>2. 	Noidankehä<br>3. 	Veriteko<br>4. 	Uhritemppeli<br>5. 	Missä käärmeet pesivät<br>6. 	Surutyö<br>7. 	Houreesta hurmioon</h3>
 
 ###
