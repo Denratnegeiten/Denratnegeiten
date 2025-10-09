@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="370" src="https://s2.ezgif.com/tmp/ezgif-2e23ec0ff5a43b.gif"  />
+<img align="right" height="300" src="https://s2.ezgif.com/tmp/ezgif-2e23ec0ff5a43b.gif"  />
 
 ###
 
