@@ -10,4 +10,4 @@ I like to create designs for websites and create something new.
 
 <img align="left" height="270" src="https://i.postimg.cc/zvPXQWZW/photo-2026-01-13-23-04-39.jpg"  />
 
-!https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white({@mopspashka})
+![https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white]({@mopspashka})
