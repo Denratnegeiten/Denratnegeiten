@@ -6,7 +6,7 @@ I like to create designs for websites and create something new.
 
 ### Facts about me:
 * I listen to heavy music.
-* I love tattoos
+* I love tattoos.
 
 ### Contact:
 [![Telegram](https://img.shields.io/badge/Telegram-@mopspashka-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mopspashka)
