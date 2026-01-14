@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm **Rodion**, a frontend engineer based in **Crimea**.
+I'm **Rodion**, a programmer based in **Crimea**.
 
 I like to create designs for websites and create something new.
 
