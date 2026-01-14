@@ -1,3 +1,5 @@
+<img align="left" height="270" src="https://i.postimg.cc/zvPXQWZW/photo-2026-01-13-23-04-39.jpg"  />
+
 # Hi there!
 
 I'm **Rodion**, a programmer based in **Crimea**.
