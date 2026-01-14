@@ -1,11 +1,9 @@
-# Hi there! 👋
+# Hi there!
 
-I'm **[Твое Имя]**, a frontend design engineer based in **[Твоя Страна/Город]**.
+I'm **Rodion**, a frontend engineer based in **Crimea**.
 
-I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
-
-Outside of code and Figma, you'll find me watching anime, hitting the gym, or drawing. I also enjoy writing [blog posts](https://твоя-ссылка.com) and sharing tech-related content on social media (over [количество] combined followers and counting).
+I like to create designs for websites and create something new.
 
 ### Fun Facts:
-* ☕ I don't like coffee or tea.
-* ⚔️ [Твое любимое аниме/хобби] is my favorite anime.
+* I listen to heavy music.
+* I love tattoos
