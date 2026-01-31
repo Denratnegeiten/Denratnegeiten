@@ -1,10 +1,10 @@
-# Hi there!
+## Hi there!
 
 I'm **Rodion**, a programmer based in **Crimea**.
 
 I like to create designs for websites and create something new.
 
-## Facts about me:
+### Facts about me:
 * I listen to atmospheric black, black, folk, death metal.
 
 ### Contact:
