@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm [Твое Имя], a Developer 🚀 from [Твоя Страна]</h1>
+<h1 align="center">Hi, I'm Rodion, a Developer 🚀 from Crimea</h1>
 
-<p align="center">
-  <a href="https://github.com/[твой_юзернейм]">
+<p align="left">
+  <a href="[https://github.com/[твой_юзернейм]](https://github.com/Denratnegeiten)">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://linkedin.com/in/[твой_профиль]">
