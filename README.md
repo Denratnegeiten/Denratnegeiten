@@ -1,9 +1,6 @@
-<h3 align="left">Hi, I'm Rodion, a Developer 🚀 from Crimea</h3>
+<h3 align="left">Hi, I'm Rodion, a Developer from Crimea</h3>
 
 <p align="left">
-  <a href="https://github.com/Denratnegeiten">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
   <a href="https://t.me/mopspashka">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
