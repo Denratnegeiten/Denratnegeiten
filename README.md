@@ -38,12 +38,3 @@
 </p>
 
 <br clear="both"/> <!-- Очищаем обтекание, чтобы статистика началась строго с новой строки -->
-
-<!-- СТАТИСТИКА -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denratnegeiten&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Denratnegeiten&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
