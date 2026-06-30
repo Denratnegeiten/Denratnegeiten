@@ -17,7 +17,7 @@
 <h4>Talking about Personal Stuffs:</h4>
 <p>🎧 I listen to atmospheric black metal, black metal, and grindcore.</p>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 <h4>Languages and Tools:</h4>
 <p>
