@@ -8,7 +8,7 @@
 <hr> <!-- Разделительная полоска -->
 
 <!-- Картинка прижата к правому краю, текст обтекает её слева -->
-<img align="right" src="https://i.postimg.cc/Xq40c3mW/image-2026-06-30-17-02-53.png" alt="My Banner" width="45%" />
+<img align="right" src="https://i.postimg.cc/KjxnCXxF/123.png" alt="My Banner" width="45%" />
 
 <h4>Talking about Personal Stuffs:</h4>
 <p>🎧 I listen to atmospheric black metal, black metal, and grindcore.</p>
